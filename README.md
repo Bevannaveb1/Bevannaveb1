@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bevannaveb1
-- 👀 I’m interested in HTML,CSS,JAVA and building websites
-- I obtained my qualification on as full stack webdeveloper(Zero to Mastery) with Adrei Neagoie as my tutor
+- 👀 I’m interested in HTML,CSS,JAVASCRIPT and building websites
+- I obtained my qualification on as Full Stack WebDeveloper(Zero to Mastery) with Adrei Neagoie as my tutor
 - 💞️ I’m looking to collaborate on building websites
 - 📫 How to reach me navebb2@gmail.com
 
